@@ -1,5 +1,5 @@
 # Smart Clothes Drying Stand
-We have made a “SMART CLOTHES DRYING STAND” which checks the moisture content in the clothes hanged out to dry with the help of moisture sensors and updates the percentage of clothes have dried on your phone. We have also attached a rain sensor which sends an alert in case it rains and a buzzer which rings for 10 seconds when it rains. We have also added a LCD screen which too can be used for live stats.
+I have made a “SMART CLOTHES DRYING STAND” which checks the moisture content in the clothes hanged out to dry with the help of moisture sensors and updates the percentage of clothes have dried on your phone. We have also attached a rain sensor which sends an alert in case it rains and a buzzer which rings for 10 seconds when it rains. We have also added a LCD screen which too can be used for live stats.
 
 
 ## Why we made it?
@@ -9,7 +9,7 @@ And if it rains then all our hard work is ruined and we have to go through the w
 
 ## How it works?
 
-We have used two separate boards in the project: NodeMCU and Arduino UNO each having its separate code. On the sensor part we have used three sensors: two moisture sensors and one rain sensor.
+I have used two separate boards in the project: NodeMCU and Arduino UNO each having its separate code. On the sensor part we have used three sensors: two moisture sensors and one rain sensor.
 All the three sensors are connected to the Arduino UNO board and it collects them and do the necessary calculations for them to be useful for the user and displays the results on LCD. It concatenates all the values in a char array separating each with a comma and this string is sent to the NodeMCU board.
 NodeMCU collects this string and separates the values again into three different integer values. It then connects with the wifi and initialises the app connection.
 After a connection has been established the values are sent to the mobile application as required. 
@@ -20,6 +20,8 @@ The values received on the application are displayed in the configured widgets a
 https://drive.google.com/file/d/1zAhRwYS52DuQQ4mJqnZp5l3rakQTClac/view?resourcekey
 
 ## Pictures
+
+![Screenshot](Pictures/notification.png)
 
 ![Screenshot](Pictures/app.png)
 
