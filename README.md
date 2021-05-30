@@ -21,13 +21,11 @@ https://drive.google.com/file/d/1zAhRwYS52DuQQ4mJqnZp5l3rakQTClac/view?resourcek
 
 ## Pictures
 
-![Screenshot](Pictures/notification.png)
+![Screenshot](Pictures/app.PNG)
 
-![Screenshot](Pictures/app.png)
+![Screenshot](Pictures/Notification.png)
 
-![Screenshot](Pictures/notification.png)
-
-![Screenshot](Pictures/project.png)
+![Screenshot](Pictures/project.PNG)
 
 ## Schematics
 
