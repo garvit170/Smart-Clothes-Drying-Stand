@@ -2,7 +2,7 @@
 I have made a “SMART CLOTHES DRYING STAND” which checks the moisture content in the clothes hanged out to dry with the help of moisture sensors and updates the percentage of clothes have dried on your phone. We have also attached a rain sensor which sends an alert in case it rains and a buzzer which rings for 10 seconds when it rains. We have also added a LCD screen which too can be used for live stats.
 
 
-## Why we made it?
+## What was it's need?
 One of the major problems we PG and hostel residents face is taking care of the clothes hung on the terrace or out to dry. We often have to go and check the status of our clothes so as not to leave our special shirts in the sunlight for too long and ruin it forever. 
 The main problem is the sun bleaches colour out of our clothes given time. If we leave a colored cloth folded over a line for a while, when we pick it up we see the top is lighter and usually where the string was there is a darker line.
 And if it rains then all our hard work is ruined and we have to go through the whole process of washing all over again. 
